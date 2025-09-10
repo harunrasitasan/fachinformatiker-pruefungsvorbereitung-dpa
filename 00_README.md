@@ -57,4 +57,7 @@ Dieser Teil ist für alle IT-Berufe identisch und legt die Grundlagen.
 
 ### Mithilfe & Feedback
 
-Dieses Repository lebt von der Zusammenarbeit. Solltest du Fehler finden oder Verbesserungsvorschläge haben, öffne bitte ein [Issue](https://github.com/harunrasitasan/fachinformatiker-pruefungsvorbereitung-dpa/issues) oder erstelle einen Pull Request.
+Dieses Repository lebt von der Zusammenarbeit. Solltest du Fehler finden oder Verbesserungsvorschläge haben, hast du mehrere Möglichkeiten:
+* Öffne bitte ein [Issue](https://github.com/harunrasitasan/fachinformatiker-pruefungsvorbereitung-dpa/issues).
+* Erstelle einen Pull Request mit deinen Änderungen.
+* Kontaktiere mich direkt über Telegram: **@harunrasitasan** oder Discord: **harun009661**.
