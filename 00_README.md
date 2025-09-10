@@ -38,6 +38,9 @@ Dieser Teil ist für alle IT-Berufe identisch und legt die Grundlagen.
 * [15 | Datenbankmodellierung](./15_Datenbankmodellierung.md)
 * [16 | Algorithmen & Pseudocode](./16_Algorithmen%20&%20Pseudocode.md)
 
+### Begriffe & Definitionen
+* [17 | Wichtige Begriffe & Definitionen für die AP1](./17_Wichtige%20Begriffe%20&%20Definitionen%20für%20die%20AP1.md)
+
 ---
 
 ## Teil 2 der Abschlussprüfung (Fachspezifisch DPA)
