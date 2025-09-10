@@ -13,20 +13,20 @@ Dieses Repo soll als zentraler Wissensspeicher dienen. Die Inhalte basieren auf 
 Dieser Teil ist für alle IT-Berufe identisch und legt die Grundlagen.
 
 ### Wirtschaftlichkeit & Betriebswirtschaftliche Prozesse
-* [01 | Kostenkalkulation](./01_Wirtschaftlichkeit%20-%20Kostenkalkulation.md)
-* [02 | Nutzwertanalyse](./02_Wirtschaftlichkeit%20-%20Nutzwertanalyse.md)
-* [03 | Make-or-Buy-Entscheidung](./03_Wirtschaftlichkeit%20-%20Make-or-Buy.md)
+* [01 | Kostenkalkulation](./01_Wirtschaftlichkeit%20%E2%80%93%20Kostenkalkulation.md)
+* [02 | Nutzwertanalyse](./02_Wirtschaftlichkeit%20%E2%80%93%20Nutzwertanalyse.md)
+* [03 | Make-or-Buy-Entscheidung](./03_Wirtschaftlichkeit%20%E2%80%93%20Make-or-Buy.md)
 
 ### Netzwerktechnik
-* [04 | OSI-Modell](./04_Netzwerktechnik%20-%20OSI-Modell.md)
-* [05 | IP-Adressierung (IPv4)](./05_Netzwerktechnik%20-%20IP-Adressierung%20(IPv4).md)
-* [06 | IP-Adressierung (IPv6)](./06_Netzwerktechnik%20-%20IP-Adressierung%20(IPv6).md)
-* [07 | Netzwerkdiagnose](./07_Netzwerktechnik%20-%20Netzwerkdiagnose.md)
+* [04 | OSI-Modell](./04_Netzwerktechnik%20%E2%80%93%20OSI-Modell.md)
+* [05 | IP-Adressierung (IPv4)](./05_Netzwerktechnik%20%E2%80%93%20IP-Adressierung%20(IPv4).md)
+* [06 | IP-Adressierung (IPv6)](./06_Netzwerktechnik%20%E2%80%93%20IP-Adressierung%20(IPv6).md)
+* [07 | Netzwerkdiagnose](./07_Netzwerktechnik%20%E2%80%93%20Netzwerkdiagnose.md)
 
 ### Projektmanagement
-* [08 | Projektplanung (Gantt & Netzplan)](./08_Projektmanagement%20-%20Projektplanung%20(Gantt%20&%20Netzplan).md)
-* [09 | Lasten- & Pflichtenheft](./09_Projektmanagement%20-%20Lasten-%20&%20Pflichtenheft.md)
-* [10 | Klassische vs. Agile Methoden](./10_Projektmanagement%20-%20Klassische%20vs.%20Agile%20Methoden.md)
+* [08 | Projektplanung (Gantt & Netzplan)](./08_Projektmanagement%20%E2%80%93%20Projektplanung%20(Gantt%20&%20Netzplan).md)
+* [09 | Lasten- & Pflichtenheft](./09_Projektmanagement%20%E2%80%93%20Lasten-%20&%20Pflichtenheft.md)
+* [10 | Klassische vs. Agile Methoden](./10_Projektmanagement%20%E2%80%93%20Klassische%20vs.%20Agile%20Methoden.md)
 
 ### Datenschutz & IT-Sicherheit
 * [11 | Datenschutz & DSGVO](./11_Datenschutz%20&%20DSGVO.md)
